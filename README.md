@@ -29,8 +29,8 @@ Prognostic biomarker discovery
      ▼
 Clinical interpretation
 
-Featured Projects
-Transcriptomic Prognostic Signature for Lung Squamous Cell Carcinoma
+## Featured Projects
+## Transcriptomic Prognostic Signature for Lung Squamous Cell Carcinoma
 
 https://github.com/ag48665/lusc-transcriptomic-prognostic-signature
 
@@ -46,7 +46,7 @@ Methods:
 • Calibration and decision curve analysis
 • External validation (GSE30219, GSE37745)
 
-TCGA Lung Squamous Cell Carcinoma Transcriptomic Analysis
+## TCGA Lung Squamous Cell Carcinoma Transcriptomic Analysis
 
 https://github.com/ag48665/tcga-lusc-biomarker-analysis
 
@@ -59,7 +59,7 @@ Methods:
 • Functional enrichment (GO / KEGG)
 • Survival analysis
 
-Immune Landscape of Lung Squamous Cell Carcinoma
+## Immune Landscape of Lung Squamous Cell Carcinoma
 
 https://github.com/ag48665/lusc-immune-escape-analysis
 
@@ -72,11 +72,11 @@ Methods:
 • Random Forest classification
 • Immune checkpoint analysis
 
-Single-Cell RNA-seq Tumor Microenvironment Analysis
+## Single-Cell RNA-seq Tumor Microenvironment Analysis
 
 https://github.com/ag48665/tcga-lung-immune-evasion-scRNAseq
 
-Single-cell analysis exploring immune cell populations and checkpoint signaling.
+## Single-cell analysis exploring immune cell populations and checkpoint signaling.
 
 Methods:
 
@@ -84,7 +84,7 @@ Methods:
 • PCA / UMAP
 • clustering and annotation
 
-Technical Skills
+## Technical Skills
 Bioinformatics
 
 RNA-seq analysis
@@ -106,13 +106,13 @@ GitHub
 data visualization
 statistical modeling
 
-Current Learning
+## Current Learning
 
 advanced RNA-seq workflows
 cancer transcriptomics
 machine learning for genomics
 
-Contact
+## Contact
 
 Email
 agatagabara@gmail.com
