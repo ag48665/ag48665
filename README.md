@@ -1,121 +1,104 @@
-# Agata Gabara  
-### Computational Cancer Genomics | Transcriptomics | RNA-seq | Bioinformatics
+# Agata Gabara
 
-Computational biology researcher focused on **transcriptomic analysis of cancer**, tumor immune microenvironment, and survival modeling.
+### Computational Biologist | Cancer Transcriptomics | Tumor Immunology
 
-My work integrates **RNA-seq analysis, survival statistics, pathway analysis, and machine learning** to understand clinically relevant tumor heterogeneity.
+Computational biologist focused on cancer transcriptomics, tumor microenvironment biology, and biomarker discovery using bulk and single-cell RNA-seq data.
+
+Research interests include tumor immune evasion, survival modeling, and development of reproducible genomics workflows for clinically relevant insights.
 
 ---
 
-# Research Roadmap
+## Research Focus
 
 Genomic data
-     │
-     ▼
-RNA-seq processing
-     │
-     ▼
-Differential expression
-     │
-     ▼
-Functional pathway analysis
-     │
-     ▼
-Survival modeling
-     │
-     ▼
-Prognostic biomarker discovery
-     │
-     ▼
-Clinical interpretation
+→ RNA-seq processing
+→ Differential expression
+→ Functional pathway analysis
+→ Survival modeling
+→ Prognostic biomarker discovery
+→ Clinical interpretation
 
-## Featured Projects
-## Transcriptomic Prognostic Signature for Lung Squamous Cell Carcinoma
+---
+
+## Selected Projects
+
+### Transcriptomic Prognostic Signature for Lung Squamous Cell Carcinoma
 
 https://github.com/ag48665/lusc-transcriptomic-prognostic-signature
 
-Development and validation of a survival prediction model using TCGA RNA-seq data and external GEO validation cohorts.
+**Objective:** Develop and validate a robust survival prediction model for LUSC patients.
 
-Methods:
+**Data:** TCGA (training), GEO (external validation: GSE30219, GSE37745)
 
-• Cox regression survival modeling
-• Elastic-net and Cox-prefilter feature selection
-• Kaplan–Meier survival analysis
-• Time-dependent ROC
-• Multivariable Cox regression
-• Calibration and decision curve analysis
-• External validation (GSE30219, GSE37745)
+**Methods:**
 
-## TCGA Lung Squamous Cell Carcinoma Transcriptomic Analysis
+* Cox proportional hazards modeling
+* Elastic-net feature selection
+* Kaplan–Meier survival analysis
+* Time-dependent ROC analysis
+* Multivariable Cox regression
+* Calibration and decision curve analysis
+
+---
+
+### TCGA Lung Squamous Cell Carcinoma Transcriptomic Analysis
 
 https://github.com/ag48665/tcga-lusc-biomarker-analysis
 
-Reproducible RNA-seq pipeline identifying survival-associated gene expression programs.
+**Objective:** Identify survival-associated gene expression programs in LUSC.
 
-Methods:
+**Methods:**
 
-• TCGA data acquisition (TCGAbiolinks)
-• Differential expression (DESeq2)
-• Functional enrichment (GO / KEGG)
-• Survival analysis
+* TCGA data acquisition (TCGAbiolinks)
+* Differential expression analysis (DESeq2)
+* Functional enrichment (GO / KEGG)
+* Survival analysis
 
-## Immune Landscape of Lung Squamous Cell Carcinoma
+---
+
+### Immune Landscape of Lung Squamous Cell Carcinoma
 
 https://github.com/ag48665/lusc-immune-escape-analysis
 
-Computational analysis of tumor immune phenotypes and immune escape mechanisms.
+**Objective:** Characterize tumor immune phenotypes and mechanisms of immune escape.
 
-Methods:
+**Methods:**
 
-• Immune gene signature scoring
-• PCA / UMAP immune landscape
-• Random Forest classification
-• Immune checkpoint analysis
+* Immune gene signature scoring
+* Dimensionality reduction (PCA / UMAP)
+* Random Forest classification
+* Immune checkpoint analysis
 
-## Single-Cell RNA-seq Tumor Microenvironment Analysis
+---
+
+### Single-Cell RNA-seq Tumor Microenvironment Analysis
 
 https://github.com/ag48665/tcga-lung-immune-evasion-scRNAseq
 
-## Single-cell analysis exploring immune cell populations and checkpoint signaling.
+**Objective:** Explore immune cell populations and functional states in the tumor microenvironment at single-cell resolution.
 
-Methods:
+**Methods:**
 
-• Scanpy preprocessing
-• PCA / UMAP
-• clustering and annotation
+* Scanpy preprocessing and normalization
+* PCA / UMAP embedding
+* Clustering and cell-type annotation
+
+---
 
 ## Technical Skills
-Bioinformatics
 
-RNA-seq analysis
-survival modeling
-functional enrichment (GO / KEGG)
-prognostic gene signatures
-single-cell RNA-seq
+**Bioinformatics:**
+RNA-seq analysis • differential expression • survival modeling • functional enrichment (GO / KEGG) • prognostic modeling • single-cell RNA-seq
 
-Programming
+**Programming:**
+R • Python
 
-R
-Python
+**Tools & Methods:**
+Linux • Git • reproducible workflows • statistical modeling • data visualization
 
-Tools
-
-Linux
-Git
-GitHub
-data visualization
-statistical modeling
-
-## Current Learning
-
-advanced RNA-seq workflows
-cancer transcriptomics
-machine learning for genomics
+---
 
 ## Contact
 
-Email
-agatagabara@gmail.com
-
-LinkedIn
-https://www.linkedin.com/in/agatha-gabara-06494a37/
+Email: [agatagabara@gmail.com](mailto:agatagabara@gmail.com)
+LinkedIn: https://www.linkedin.com/in/agatha-gabara-06494a37/
