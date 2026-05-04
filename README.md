@@ -84,17 +84,37 @@ https://github.com/ag48665/tcga-lung-immune-evasion-scRNAseq
 * Clustering and cell-type annotation
 
 ---
+Pilot Hypoxia Detection using Physiological Signals
+
+https://github.com/ag48665/Pilot-Hypoxia-Detection-using-Physiological-Signals
+
+Objective: Develop a machine learning–based system for early detection of hypoxia in pilots using physiological signals.
+
+Data: Multimodal physiological signals (e.g., heart rate, oxygen saturation, respiration, or similar — dostosuj jeśli masz dokładne dane)
+
+Methods:
+
+Signal preprocessing and feature extraction
+Time-series analysis of physiological data
+Machine learning classification models
+Model evaluation (accuracy, ROC, confusion matrix)
+Data visualization and pattern detection
+
+---
 
 ## Technical Skills
 
-**Bioinformatics:**
-RNA-seq analysis • differential expression • survival modeling • functional enrichment (GO / KEGG) • prognostic modeling • single-cell RNA-seq
+Bioinformatics:
+RNA-seq analysis • differential expression (DESeq2) • survival modeling (Cox, Kaplan–Meier) • functional enrichment (GO / KEGG) • prognostic modeling • single-cell RNA-seq (Scanpy) • TCGA / GEO data analysis • biomarker discovery
 
-**Programming:**
-R • Python
+Machine Learning & Data Analysis:
+Supervised learning • classification models • feature selection • model evaluation (ROC, AUC, confusion matrix) • time-series analysis • physiological signal processing
 
-**Tools & Methods:**
-Linux • Git • reproducible workflows • statistical modeling • data visualization
+Programming:
+R (tidyverse, survival, DESeq2) • Python (pandas, numpy, scikit-learn, scanpy)
+
+Tools & Methods:
+Linux • Git • reproducible workflows • statistical modeling • data visualization (ggplot2, matplotlib, seaborn) • data preprocessing • pipeline development
 
 ---
 
