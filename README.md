@@ -84,6 +84,25 @@ https://github.com/ag48665/tcga-lung-immune-evasion-scRNAseq
 * Clustering and cell-type annotation
 
 ---
+### Single-cell RNA-seq Cell Atlas of Human PBMCs
+
+https://github.com/ag48665/scrna-pbmc-cell-atlas
+
+**Objective:** Reconstruct immune cell populations from human PBMC single-cell RNA-seq data using an unsupervised Scanpy workflow.
+
+Data: Public PBMC3K dataset from Scanpy (~2,700 human peripheral blood mononuclear cells)
+
+**Methods:**
+
+* Single-cell RNA-seq quality control and filtering
+* Normalization and highly variable gene selection
+* PCA / UMAP dimensionality reduction
+* Leiden clustering
+* Marker gene identification
+* Cell-type annotation using canonical immune markers
+
+---
+
 ### Pilot Hypoxia Detection using Physiological Signals
 
 https://github.com/ag48665/Pilot-Hypoxia-Detection-using-Physiological-Signals
