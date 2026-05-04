@@ -107,17 +107,17 @@ Data: Public PBMC3K dataset from Scanpy (~2,700 human peripheral blood mononucle
 
 https://github.com/ag48665/Pilot-Hypoxia-Detection-using-Physiological-Signals
 
-Objective: Develop a machine learning–based system for early detection of hypoxia in pilots using physiological signals.
+**Objective:** Develop a machine learning–based system for early detection of hypoxia in pilots using physiological signals.
 
 Data: Multimodal physiological signals (e.g., heart rate, oxygen saturation, respiration)
 
 **Methods:**
 
-Signal preprocessing and feature extraction
-Time-series analysis of physiological data
-Machine learning classification models
-Model evaluation (accuracy, ROC, confusion matrix)
-Data visualization and pattern detection
+* Signal preprocessing and feature extraction
+* Time-series analysis of physiological data
+* Machine learning classification models
+* Model evaluation (accuracy, ROC, confusion matrix)
+* Data visualization and pattern detection
 
 ---
 
