@@ -92,7 +92,7 @@ Objective: Develop a machine learning–based system for early detection of hypo
 
 Data: Multimodal physiological signals (e.g., heart rate, oxygen saturation, respiration, or similar — dostosuj jeśli masz dokładne dane)
 
-Methods:
+**Methods:**
 
 Signal preprocessing and feature extraction
 Time-series analysis of physiological data
