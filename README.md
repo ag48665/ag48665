@@ -90,7 +90,7 @@ https://github.com/ag48665/Pilot-Hypoxia-Detection-using-Physiological-Signals
 
 Objective: Develop a machine learning–based system for early detection of hypoxia in pilots using physiological signals.
 
-Data: Multimodal physiological signals (e.g., heart rate, oxygen saturation, respiration, or similar — dostosuj jeśli masz dokładne dane)
+Data: Multimodal physiological signals (e.g., heart rate, oxygen saturation, respiration)
 
 **Methods:**
 
