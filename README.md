@@ -58,6 +58,8 @@ https://github.com/ag48665/tcga-lusc-biomarker-analysis
 
 ### Immune Landscape of Lung Squamous Cell Carcinoma
 
+https://github.com/ag48665/lusc-immune-escape-analysis
+
 **Objective:**
 Transcriptomic analysis of immune heterogeneity in lung squamous cell carcinoma (LUSC), focusing on immune activation, checkpoint signaling, and exhaustion-associated tumor states using TCGA and GEO datasets.
 
