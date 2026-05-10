@@ -78,10 +78,10 @@ Transcriptomic analysis of immune heterogeneity in lung squamous cell carcinoma 
 
 https://github.com/ag48665/spaceflight-rnaseq-analysis
 
-## Objective:
+**Objective:**
 Investigate transcriptomic changes associated with spaceflight exposure using RNA-seq analysis to identify altered biological pathways and adaptive molecular responses.
 
-## Methods:
+### Methods
 
 RNA-seq preprocessing and normalization
 Differential gene expression analysis
