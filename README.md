@@ -10,12 +10,12 @@ Research interests include tumor immune evasion, survival modeling, and developm
 
 ## Research Focus
 
-Genomic data
-→ RNA-seq processing
-→ Differential expression
-→ Functional pathway analysis
-→ Survival modeling
-→ Prognostic biomarker discovery
+Genomic data  
+→ RNA-seq processing  
+→ Differential expression  
+→ Functional pathway analysis  
+→ Survival modeling  
+→ Prognostic biomarker discovery  
 → Clinical interpretation
 
 ---
@@ -26,9 +26,11 @@ Genomic data
 
 https://github.com/ag48665/lusc-transcriptomic-prognostic-signature
 
-**Objective:** Develop and validate a robust survival prediction model for LUSC patients.
+**Objective:**  
+Develop and validate a robust survival prediction model for lung squamous cell carcinoma (LUSC) patients.
 
-**Data:** TCGA (training), GEO (external validation: GSE30219, GSE37745)
+**Data:**  
+TCGA (training cohort), GEO external validation cohorts (GSE30219, GSE37745)
 
 **Methods:**
 
@@ -45,13 +47,14 @@ https://github.com/ag48665/lusc-transcriptomic-prognostic-signature
 
 https://github.com/ag48665/tcga-lusc-biomarker-analysis
 
-**Objective:** Identify survival-associated gene expression programs in LUSC.
+**Objective:**  
+Identify survival-associated gene expression programs and potential prognostic biomarkers in LUSC.
 
 **Methods:**
 
-* TCGA data acquisition (TCGAbiolinks)
+* TCGA data acquisition using TCGAbiolinks
 * Differential expression analysis (DESeq2)
-* Functional enrichment (GO / KEGG)
+* Functional enrichment analysis (GO / KEGG)
 * Survival analysis
 
 ---
@@ -60,17 +63,17 @@ https://github.com/ag48665/tcga-lusc-biomarker-analysis
 
 https://github.com/ag48665/lusc-immune-escape-analysis
 
-**Objective:**
-Transcriptomic analysis of immune heterogeneity in lung squamous cell carcinoma (LUSC), focusing on immune activation, checkpoint signaling, and exhaustion-associated tumor states using TCGA and GEO datasets.
+**Objective:**  
+Characterize immune heterogeneity in lung squamous cell carcinoma by analyzing immune activation, checkpoint signaling, and exhaustion-associated tumor states using TCGA and GEO datasets.
 
-### Methods
+**Methods:**
 
-- Immune gene signature scoring
-- T-cell exhaustion profiling
-- Checkpoint signaling analysis
-- UMAP visualization
-- Survival analysis
-- External cohort validation
+* Immune gene signature scoring
+* T-cell exhaustion profiling
+* Checkpoint signaling analysis
+* UMAP visualization
+* Survival analysis
+* External cohort validation
 
 ---
 
@@ -78,41 +81,45 @@ Transcriptomic analysis of immune heterogeneity in lung squamous cell carcinoma 
 
 https://github.com/ag48665/spaceflight-rnaseq-analysis
 
-**Objective:**
+**Objective:**  
 Investigate transcriptomic changes associated with spaceflight exposure using RNA-seq analysis to identify altered biological pathways and adaptive molecular responses.
 
-### Methods
+**Methods:**
 
-RNA-seq preprocessing and normalization
-Differential gene expression analysis
-Functional enrichment (GO / KEGG)
-Pathway-level interpretation
-Exploratory transcriptomic visualization
-Reproducible bioinformatics workflow development
+* RNA-seq preprocessing and normalization
+* Differential gene expression analysis
+* Functional enrichment analysis (GO / KEGG)
+* Pathway-level interpretation
+* Exploratory transcriptomic visualization
+* Reproducible bioinformatics workflow development
 
 ---
-
 
 ### Single-Cell RNA-seq Tumor Microenvironment Analysis
 
 https://github.com/ag48665/tcga-lung-immune-evasion-scRNAseq
 
-**Objective:** Explore immune cell populations and functional states in the tumor microenvironment at single-cell resolution.
+**Objective:**  
+Explore immune cell populations and functional states within the tumor microenvironment at single-cell resolution.
 
 **Methods:**
 
 * Scanpy preprocessing and normalization
-* PCA / UMAP embedding
-* Clustering and cell-type annotation
+* PCA / UMAP dimensionality reduction
+* Clustering analysis
+* Cell-type annotation
 
 ---
+
 ### Single-cell RNA-seq Cell Atlas of Human PBMCs
 
 https://github.com/ag48665/scrna-pbmc-cell-atlas
 
-**Objective:** Reconstruct immune cell populations from human PBMC single-cell RNA-seq data using an unsupervised Scanpy workflow.
+**Objective:**  
+Reconstruct immune cell populations from human PBMC single-cell RNA-seq data using an unsupervised Scanpy workflow.
 
-Data: Public PBMC3K dataset from Scanpy (~2,700 human peripheral blood mononuclear cells)
+**Data:**  
+Public PBMC3K dataset from Scanpy (~2,700 human peripheral blood mononuclear cells)
 
 **Methods:**
 
@@ -129,9 +136,11 @@ Data: Public PBMC3K dataset from Scanpy (~2,700 human peripheral blood mononucle
 
 https://github.com/ag48665/Pilot-Hypoxia-Detection-using-Physiological-Signals
 
-**Objective:** Develop a machine learning–based system for early detection of hypoxia in pilots using physiological signals.
+**Objective:**  
+Develop a machine learning–based system for early hypoxia detection in pilots using physiological signals.
 
-Data: Multimodal physiological signals (e.g., heart rate, oxygen saturation, respiration)
+**Data:**  
+Multimodal physiological signals including heart rate, oxygen saturation, and respiration measurements
 
 **Methods:**
 
@@ -145,16 +154,20 @@ Data: Multimodal physiological signals (e.g., heart rate, oxygen saturation, res
 
 ## Technical Skills
 
-Bioinformatics:
+### Bioinformatics
+
 RNA-seq analysis • differential expression (DESeq2) • survival modeling (Cox, Kaplan–Meier) • functional enrichment (GO / KEGG) • prognostic modeling • single-cell RNA-seq (Scanpy) • TCGA / GEO data analysis • biomarker discovery
 
-Machine Learning & Data Analysis:
+### Machine Learning & Data Analysis
+
 Supervised learning • classification models • feature selection • model evaluation (ROC, AUC, confusion matrix) • time-series analysis • physiological signal processing
 
-Programming:
+### Programming
+
 R (tidyverse, survival, DESeq2) • Python (pandas, numpy, scikit-learn, scanpy)
 
-Tools & Methods:
+### Tools & Methods
+
 Linux • Git • reproducible workflows • statistical modeling • data visualization (ggplot2, matplotlib, seaborn) • data preprocessing • pipeline development
 
 ---
@@ -162,4 +175,5 @@ Linux • Git • reproducible workflows • statistical modeling • data visua
 ## Contact
 
 Email: [agatagabara@gmail.com](mailto:agatagabara@gmail.com)
+
 LinkedIn: https://www.linkedin.com/in/agatha-gabara-06494a37/
