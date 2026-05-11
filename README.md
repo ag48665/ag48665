@@ -42,7 +42,45 @@ TCGA (training cohort), GEO external validation cohorts (GSE30219, GSE37745)
 * Calibration and decision curve analysis
 
 ---
+### NASA Spaceflight AI – RNA-seq Transcriptomics Analysis
 
+https://github.com/ag48665/nasa-spaceflight-ai
+
+**Objective:**
+Analyze NASA GeneLab RNA-seq transcriptomics datasets using bioinformatics, machine learning, and data visualization techniques to investigate gene expression variability under spaceflight conditions.
+
+**Data:**
+NASA GeneLab RNA-seq datasets (GLDS-168, GLDS-245)
+
+**Methods:**
+
+* RNA-seq transcriptomics preprocessing
+* Principal Component Analysis (PCA)
+* Heatmap visualization
+* Highly expressed gene analysis
+* K-Means clustering
+* Comparative transcriptomics
+* Machine learning-based exploratory analysis
+
+**Technologies:**
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* Jupyter Notebook
+
+**Applications:**
+
+* Space medicine research
+* Biomarker discovery
+* Precision medicine
+* AI-assisted bioinformatics
+* Transcriptomic anomaly detection
+
+---
 ### TCGA Lung Squamous Cell Carcinoma Transcriptomic Analysis
 
 https://github.com/ag48665/tcga-lusc-biomarker-analysis
