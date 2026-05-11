@@ -110,6 +110,58 @@ Explore immune cell populations and functional states within the tumor microenvi
 * Cell-type annotation
 
 ---
+### NGS Variant Calling Pipeline
+
+https://github.com/ag48665/nextflow-variant-calling-pipeline
+
+**Objective:**  
+The objective of this project was to build a reproducible and containerized bioinformatics workflow for genomic variant calling using Nextflow and Docker.
+
+The pipeline demonstrates core steps used in next-generation sequencing (NGS) analysis, including:
+
+- FASTQ quality control
+- sequence alignment
+- BAM processing
+- variant calling
+- reproducible workflow execution
+
+This project also aimed to develop practical skills in:
+
+- workflow orchestration with Nextflow
+- Linux/WSL2 bioinformatics environments
+- Docker containerization
+- genomics data processing
+- Git and GitHub version control
+
+**Methods:**
+
+The workflow was implemented using Nextflow DSL2 and executed with Docker containers to ensure reproducibility.
+
+Pipeline steps:
+
+1. FASTQ Quality Control
+   - FastQC was used to assess sequencing read quality.
+
+2. Sequence Alignment
+   - BWA MEM was used to align sequencing reads to the reference genome.
+
+3. BAM Processing
+   - SAMtools converted SAM to sorted BAM format.
+
+4. Variant Calling
+   - BCFtools was used to identify genomic variants and generate VCF files.
+
+Technologies used:
+
+- Nextflow
+- Docker
+- FastQC
+- BWA
+- SAMtools
+- BCFtools
+- Linux / WSL2
+
+---
 
 ### Single-cell RNA-seq Cell Atlas of Human PBMCs
 
