@@ -22,6 +22,48 @@ Genomic data
 
 ## Selected Projects
 
+### Genomic Identification AI
+
+https://github.com/ag48665/genomic_identification
+
+**Objective:**
+Develop a computational genomics framework for forensic-style human identification from degraded and mixed DNA samples using machine learning, Bayesian inference, and deep learning.
+
+**Data:**
+1000 Genomes Project Phase 3 genotype data (chromosome 20 SNP profiles)
+
+**Methods:**
+
+* Genomic SNP matrix construction
+* PCA and UMAP population structure analysis
+* Population-aware ancestry inference
+* DNA degradation robustness simulation
+* Bayesian posterior identity estimation
+* Entropy-based uncertainty analysis
+* Explainable AI using SNP feature importance
+* Deep autoencoder latent genomic embeddings
+* Interactive Streamlit dashboard development
+
+**Technologies:**
+
+* Python
+* PyTorch
+* scikit-allel
+* scikit-learn
+* NumPy
+* Matplotlib
+* Streamlit
+
+**Applications:**
+
+* Forensic genomics
+* Population genetics
+* Probabilistic genomic inference
+* AI-assisted human identification
+* Explainable genomic machine learning
+
+---
+
 ### Transcriptomic Prognostic Signature for Lung Squamous Cell Carcinoma
 
 https://github.com/ag48665/lusc-transcriptomic-prognostic-signature
