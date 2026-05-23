@@ -32,6 +32,12 @@ https://github.com/ag48665/hospital-readmission-risk-sql-python
 
 Healthcare analytics and machine learning project focused on hospital readmission prediction, SQL healthcare analytics, ICU risk profiling, cost analysis, CTEs, window functions, and predictive modeling using Python and scikit-learn.
 
+## Healthcare Claims Risk Analytics Pipeline
+
+https://github.com/ag48665/healthcare-claims-risk-analytics-pipeline
+
+Healthcare analytics and risk modeling project focused on insurance claims processing, fraud analytics, patient risk scoring, cost optimization, ETL pipelines, SQL analytics, and predictive modeling using Python and machine learning techniques.
+
 ---
 
 ## Research & Bioinformatics Projects
