@@ -24,11 +24,11 @@ Genomic data
 
 https://github.com/ag48665/sql-data-analysis-portfolio
 
-SQL-based banking analytics project focused on fraud detection, customer segmentation, KPI analysis, window functions, ranking, and CTE analysis using SQLite.
+SQL analytics project focused on banking KPIs, fraud detection, customer segmentation, transaction analysis, ranking functions, window functions, and risk-oriented financial analytics using SQLite.
 
 ---
 
-## Selected Projects
+## Research & Bioinformatics Projects
 
 ### Genomic Identification AI
 
