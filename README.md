@@ -26,6 +26,12 @@ https://github.com/ag48665/sql-data-analysis-portfolio
 
 SQL analytics project focused on banking KPIs, fraud detection, customer segmentation, transaction analysis, ranking functions, window functions, and risk-oriented financial analytics using SQLite.
 
+## Predicting Hospital Readmission Risk using SQL & Python
+
+https://github.com/ag48665/hospital-readmission-risk-sql-python
+
+Healthcare analytics and machine learning project focused on hospital readmission prediction, SQL healthcare analytics, ICU risk profiling, cost analysis, CTEs, window functions, and predictive modeling using Python and scikit-learn.
+
 ---
 
 ## Research & Bioinformatics Projects
