@@ -1,10 +1,9 @@
 # Agata Gabara
 
-### Computational Biologist | Cancer Transcriptomics | Tumor Immunology
+### Data Analytics | Computational Biology | SQL | Finance & Risk Analytics | Cybersecurity
 
-Computational biologist focused on cancer transcriptomics, tumor microenvironment biology, and biomarker discovery using bulk and single-cell RNA-seq data.
-
-Research interests include tumor immune evasion, survival modeling, and development of reproducible genomics workflows for clinically relevant insights.
+Data-driven analyst with experience in computational biology, machine learning, SQL analytics, and risk-oriented data analysis.
+Interested in financial analytics, fraud detection, cybersecurity analytics, and AI-driven data science applications.
 
 ---
 
@@ -17,6 +16,15 @@ Genomic data
 → Survival modeling  
 → Prognostic biomarker discovery  
 → Clinical interpretation
+
+---
+## Featured Analytics Projects
+
+### SQL Banking & Fraud Analytics Portfolio
+
+https://github.com/ag48665/sql-data-analysis-portfolio
+
+SQL-based banking analytics project focused on fraud detection, customer segmentation, KPI analysis, window functions, ranking, and CTE analysis using SQLite.
 
 ---
 
