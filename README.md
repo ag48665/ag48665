@@ -44,6 +44,13 @@ https://github.com/ag48665/healthcare-executive-dashboard-powerbi
 
 Interactive Power BI healthcare dashboard focused on executive KPI monitoring, healthcare claims analytics, ICU utilization, hospital performance tracking, diagnosis cost analysis, readmission risk reporting, and healthcare business intelligence visualization.
 
+
+### MIMIC-IV ICU Risk Analytics
+
+https://github.com/ag48665/mimic-iv-icu-risk-analytics
+
+Real-world healthcare analytics project using MIMIC-IV clinical ICU data, SQL, Python, SQLite, mortality analytics, ICU KPI monitoring, healthcare data visualization, clinical risk analysis, and exploratory healthcare data analytics.
+
 ---
 
 ## Research & Bioinformatics Projects
