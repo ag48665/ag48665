@@ -38,6 +38,12 @@ https://github.com/ag48665/healthcare-claims-risk-analytics-pipeline
 
 Healthcare analytics and risk modeling project focused on insurance claims processing, fraud analytics, patient risk scoring, cost optimization, ETL pipelines, SQL analytics, and predictive modeling using Python and machine learning techniques.
 
+### Healthcare Executive Dashboard (Power BI)
+
+https://github.com/ag48665/healthcare-executive-dashboard-powerbi
+
+Interactive Power BI healthcare dashboard focused on executive KPI monitoring, healthcare claims analytics, ICU utilization, hospital performance tracking, diagnosis cost analysis, readmission risk reporting, and healthcare business intelligence visualization.
+
 ---
 
 ## Research & Bioinformatics Projects
