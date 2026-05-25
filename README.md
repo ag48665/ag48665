@@ -26,6 +26,12 @@ https://github.com/ag48665/sql-data-analysis-portfolio
 
 SQL analytics project focused on banking KPIs, fraud detection, customer segmentation, transaction analysis, ranking functions, window functions, and risk-oriented financial analytics using SQLite.
 
+### Airline Customer Satisfaction Tableau Dashboard
+Interactive Tableau dashboard analyzing airline customer satisfaction, delays, service quality, and passenger experience trends.
+
+🔗 [View Project](https://github.com/ag48665/Agata-Gabara/tree/main/airline-customer-satisfaction-tableau-dashboard)
+
+
 ## Predicting Hospital Readmission Risk using SQL & Python
 
 https://github.com/ag48665/hospital-readmission-risk-sql-python
