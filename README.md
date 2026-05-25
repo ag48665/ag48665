@@ -31,6 +31,16 @@ Interactive Tableau dashboard analyzing airline customer satisfaction, delays, s
 
 🔗 [View Project](https://github.com/ag48665/Agata-Gabara/tree/main/airline-customer-satisfaction-tableau-dashboard)
 
+### Airline Satisfaction Analysis
+Data analysis project focused on airline passenger satisfaction using exploratory data analysis, customer segmentation, and visualization techniques.
+
+🔗 [View Project](https://github.com/ag48665/Agata-Gabara/tree/main/airline-satisfaction-analysis)
+
+### Victoria Data Analytics Internship
+Business and data analytics internship project involving data cleaning, reporting, visualization, and analytical insights for business decision-making.
+
+🔗 [View Project](https://github.com/ag48665/Agata-Gabara/tree/main/Victoria-Data-Analytics-Internship)
+
 
 ## Predicting Hospital Readmission Risk using SQL & Python
 
