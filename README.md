@@ -70,6 +70,35 @@ Real-world healthcare analytics project using MIMIC-IV clinical ICU data, SQL, P
 ---
 
 ## Research & Bioinformatics Projects
+### AWS Cancer Survival Pipeline
+
+https://github.com/ag48665/aws-cancer-survival-pipeline
+
+**Objective:**  
+Build a cloud-ready, reproducible bioinformatics pipeline for RNA-seq statistical analysis, biomarker discovery, and survival modeling in lung cancer using TCGA-LUAD data.
+
+**Methods:**
+
+* TCGA RNA-seq and clinical data processing
+* Differential expression analysis using DESeq2
+* Exploratory transcriptomic analysis and PCA
+* Kaplan–Meier survival analysis
+* Cox proportional hazards modeling
+* LASSO Cox feature selection
+* Reproducible workflow structure with Docker, Nextflow, GitHub Actions, and AWS-ready architecture
+
+**Technologies:**
+
+* R
+* Bioconductor
+* DESeq2
+* TCGAbiolinks
+* survival / survminer
+* glmnet
+* Nextflow
+* Docker
+* GitHub Actions
+* AWS-ready project structure
 
 ### Genomic Identification AI
 
