@@ -70,6 +70,44 @@ Real-world healthcare analytics project using MIMIC-IV clinical ICU data, SQL, P
 ---
 
 ## Research & Bioinformatics Projects
+### GATK Somatic Variant Calling Demo
+
+https://github.com/ag48665/gatk-somatic-variant-calling-demo
+
+**Objective:**  
+Build a reproducible tumor-normal somatic variant calling workflow demonstrating practical next-generation sequencing (NGS) analysis skills used in computational genomics and cancer bioinformatics.
+
+**Methods:**
+
+* Tumor-normal paired sequencing workflow design
+* BWA and minimap2 read alignment
+* BAM sorting and indexing using SAMtools
+* Somatic SNV/indel calling using GATK Mutect2
+* Variant filtering using FilterMutectCalls
+* YAML-based workflow configuration
+* GitHub Actions CI/CD testing
+* Docker-based reproducible environment setup
+
+**Technologies:**
+
+* Python
+* GATK Mutect2
+* SAMtools
+* BWA
+* minimap2
+* Docker
+* GitHub Actions
+* YAML
+* Linux command-line workflows
+
+**Applications:**
+
+* Cancer genomics
+* Somatic mutation analysis
+* NGS workflow engineering
+* Reproducible bioinformatics pipelines
+* Computational oncology
+
 ### AWS Cancer Survival Pipeline
 
 https://github.com/ag48665/aws-cancer-survival-pipeline
