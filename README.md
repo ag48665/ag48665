@@ -70,6 +70,65 @@ Real-world healthcare analytics project using MIMIC-IV clinical ICU data, SQL, P
 ---
 
 ## Research & Bioinformatics Projects
+
+### Lung Tumor Microenvironment Single-Cell RNA-seq Analysis
+
+https://github.com/ag48665/multimodal-cancer-foundation-models
+
+**Objective:**
+Characterize the cellular composition, signaling interactions, and transcriptional dynamics of the lung tumor microenvironment using single-cell RNA sequencing (scRNA-seq) data from lung cancer, metastatic, and normal tissue samples.
+
+**Data:**
+GSE131907 lung cancer single-cell RNA-seq dataset including normal lung (nLung), normal lymph node (nLN), brain metastasis (mBrain), and tumor lung/bronchus (tL/B) samples.
+
+**Methods:**
+
+* Single-cell quality control and preprocessing using Scanpy
+* Highly variable gene selection and dimensionality reduction
+* Batch integration using scVI-tools
+* UMAP visualization and Leiden clustering
+* Cell-type and subtype annotation
+* Differential gene expression analysis
+* GO Biological Process enrichment analysis
+* Ligand-receptor interaction inference using LIANA
+* Cell-cell communication network reconstruction
+* Diffusion pseudotime (DPT) analysis
+* PAGA trajectory inference
+* Multisample comparison of metastatic and normal tissues
+* Identification of metastasis-associated transcriptional programs
+
+**Technologies:**
+
+* Python
+* Scanpy
+* scVI-tools
+* LIANA
+* GSEApy
+* AnnData
+* Pandas
+* NumPy
+* Seaborn
+* Matplotlib
+
+**Key Findings:**
+
+* Identification of major tumor microenvironment populations including epithelial, immune, endothelial, fibroblast, and stromal cells
+* Discovery of prominent ligand-receptor interactions such as APP→AGER, APOE→ABCA1, ARPC5→ADRB2, and ACTR2→ADRB2
+* Reconstruction of epithelial differentiation trajectories using pseudotime analysis
+* Detection of terminal epithelial states enriched for AGER and AQP5 expression
+* Identification of brain metastasis-associated genes including APLP1, APOD, AIF1L, ANLN, and ABCA2
+* Functional enrichment revealing vesicle trafficking, phagosome maturation, intracellular pH regulation, and metastatic adaptation pathways
+
+**Applications:**
+
+* Single-cell transcriptomics
+* Tumor microenvironment analysis
+* Cancer systems biology
+* Computational oncology
+* Cell-cell communication analysis
+* Metastatic progression studies
+* Biomarker discovery
+
 ### GATK Somatic Variant Calling Demo
 
 https://github.com/ag48665/gatk-somatic-variant-calling-demo
