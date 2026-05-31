@@ -458,6 +458,13 @@ Multimodal physiological signals including heart rate, oxygen saturation, and re
 * Data visualization and pattern detection
 
 ---
+### SOC Analyst Portfolio
+
+https://github.com/ag48665/soc-analyst-portfolio
+
+Cybersecurity analytics portfolio focused on SOC analysis, threat detection, incident investigation, SIEM-style log analysis, alerts, risk triage, and security monitoring workflows.
+
+---
 
 ## Technical Skills
 
