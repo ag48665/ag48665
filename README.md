@@ -71,6 +71,42 @@ Real-world healthcare analytics project using MIMIC-IV clinical ICU data, SQL, P
 
 ## Research & Bioinformatics Projects
 
+### Bioinformatics Toolkit with Biopython
+
+https://github.com/ag48665/bioinformatics-toolkit-biopython
+
+**Objective:**  
+Build an educational Python toolkit demonstrating core Biopython workflows for biological sequence analysis, file parsing, sequence alignment, motif discovery, NCBI Entrez access, and protein structure parsing.
+
+**Methods:**
+
+* DNA, RNA, and protein sequence analysis using Biopython
+* FASTA and GenBank parsing with SeqIO
+* GC content calculation and visualization
+* Pairwise sequence alignment
+* Motif detection and consensus sequence analysis
+* NCBI Entrez database querying
+* Protein Data Bank (PDB) structure parsing
+* Interactive Jupyter Notebook examples
+* Unit testing with pytest
+
+**Technologies:**
+
+* Python
+* Biopython
+* Pandas
+* Matplotlib
+* Jupyter Notebook
+* pytest
+
+**Applications:**
+
+* Bioinformatics education
+* Computational biology workflows
+* Sequence analysis
+* Biological data parsing
+* Protein structure analysis
+
 ### Lung Tumor Microenvironment Single-Cell RNA-seq Analysis
 
 https://github.com/ag48665/multimodal-cancer-foundation-models
