@@ -165,6 +165,72 @@ GSE131907 lung cancer single-cell RNA-seq dataset including normal lung (nLung),
 * Metastatic progression studies
 * Biomarker discovery
 
+  ### Glioma Multi-Omics Landscape
+
+https://github.com/ag48665/glioma-multiomics-landscape
+
+**Objective:**
+
+Perform an integrated multi-omics characterization of glioblastoma (GBM) and lower-grade glioma (LGG) using TCGA datasets to identify genomic alterations, transcriptomic differences, survival-associated biomarkers, and molecular signatures distinguishing aggressive and lower-grade glioma subtypes.
+
+**Data:**
+
+* TCGA Glioblastoma (GBM)
+* TCGA Lower Grade Glioma (LGG)
+* Somatic mutation profiles
+* RNA-seq expression data
+* Clinical and survival metadata
+
+**Methods:**
+
+* TCGAbiolinks data acquisition
+* Somatic mutation profiling
+* Driver-gene frequency analysis
+* Tumor mutation burden (TMB) analysis
+* Differential expression analysis using DESeq2
+* PCA and UMAP dimensionality reduction
+* Kaplan–Meier survival analysis
+* Co-mutation and mutual exclusivity analysis
+* Mutation landscape visualization
+* Sankey and alluvial multi-omics visualization
+* Reproducible workflow development using Snakemake
+
+**Technologies:**
+
+* R
+* Python
+* DESeq2
+* TCGAbiolinks
+* maftools
+* survival
+* survminer
+* ggplot2
+* pandas
+* matplotlib
+* Snakemake
+
+**Key Findings:**
+
+* Analysis of 617 TCGA glioma samples identified 14,499 somatic variants.
+* IDH1 mutations were strongly enriched in LGG compared with GBM.
+* EGFR alterations were predominantly associated with GBM.
+* TP53 and PTEN represented major driver events across glioma subtypes.
+* GBM exhibited substantially higher mutation burden than LGG.
+* Differential expression analysis identified over 43,000 significantly dysregulated genes.
+* PCA and UMAP analyses demonstrated clear molecular separation between GBM and LGG.
+* Integrated multi-omics analysis revealed distinct genomic and transcriptomic architectures associated with glioma progression.
+
+**Applications:**
+
+* Cancer genomics
+* Computational oncology
+* Multi-omics integration
+* Biomarker discovery
+* Precision oncology
+* Survival modeling
+* Clinical bioinformatics
+* Glioma research
+
 ### GATK Somatic Variant Calling Demo
 
 https://github.com/ag48665/gatk-somatic-variant-calling-demo
