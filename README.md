@@ -269,6 +269,50 @@ Build a reproducible tumor-normal somatic variant calling workflow demonstrating
 * Reproducible bioinformatics pipelines
 * Computational oncology
 
+### AWS Nextflow NGS Pipeline
+
+https://github.com/ag48665/aws-nextflow-ngs-pipeline
+
+**Objective:**
+
+Develop a cloud-ready, containerized next-generation sequencing (NGS) workflow using Nextflow and Docker, with future deployment on AWS Batch infrastructure.
+
+**Current Workflow:**
+
+* FASTQ quality control using FastQC
+* Read trimming using Trim Galore
+* Quality control of trimmed reads
+* Modular Nextflow DSL2 pipeline design
+* Docker-based reproducible execution
+
+**Technologies:**
+
+* Nextflow DSL2
+* Docker
+* FastQC
+* Trim Galore
+* Linux / WSL2
+* Git & GitHub
+
+**Planned Extensions:**
+
+* AWS Batch execution
+* Amazon S3 integration
+* BWA alignment
+* SAMtools processing
+* BCFtools variant calling
+* MultiQC reporting
+* Terraform-managed infrastructure
+
+**Applications:**
+
+* NGS workflow automation
+* Reproducible bioinformatics pipelines
+* Cloud bioinformatics
+* Genomics data processing
+* Workflow orchestration
+* Infrastructure-as-Code bioinformatics
+
 ### AWS Cancer Survival Pipeline
 
 https://github.com/ag48665/aws-cancer-survival-pipeline
