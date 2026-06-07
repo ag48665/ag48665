@@ -383,22 +383,59 @@ Develop a computational genomics framework for forensic-style human identificati
 * AI-assisted human identification
 * Explainable genomic machine learning
 
-
 ## Forensic DNA Mixture Lab
+
 GitHub: [forensic-dna-mixture-lab](https://github.com/ag48665/forensic-dna-mixture-lab)
 
 **Objective:**
-Develop computational methods for forensic DNA mixture interpretation and contributor identification using probabilistic modeling, population genetics, and machine learning approaches.
+Develop a computational forensic genomics framework for DNA mixture interpretation and contributor identification using probabilistic modeling, population genetics, and machine learning approaches. The project demonstrates analytical workflows commonly used in forensic DNA analysis for complex mixed samples.
+
+**Data:**
+Simulated and mixed DNA profiles
+SNP and STR marker datasets
+Population allele frequency reference panels
+Contributor and non-contributor genotype profiles
+Synthetic forensic casework scenarios
+
+**Methods:**
+DNA mixture simulation and preprocessing
+Allele frequency estimation
+Genotype likelihood calculation
+Bayesian inference for contributor assessment
+Likelihood Ratio (LR) analysis
+Mixture deconvolution and contributor separation
+Population genetics-based probability modeling
+Principal Component Analysis (PCA)
+Machine learning classification of contributor profiles
+Uncertainty quantification and confidence estimation
+Data visualization and forensic reporting workflows
+
+**Technologies:**
+Python
+Pandas
+NumPy
+Scikit-learn
+SciPy
+Matplotlib
+Jupyter Notebook
 
 **Applications:**
-
 Forensic genomics
-DNA mixture deconvolution
+DNA mixture interpretation
 Human identification
 Probabilistic genotyping
-Criminalistics and forensic analytics
+Criminal investigations
+Population genetics
+Forensic intelligence analytics
 
----
+**Key Outcomes**
+Reconstruction of contributor profiles from mixed DNA samples
+Quantification of evidential strength using likelihood ratios
+Assessment of contributor probability under alternative hypotheses
+Demonstration of probabilistic forensic DNA interpretation workflows
+Reproducible analytical framework for forensic genomics research
+
+
 ### Transcriptomic Prognostic Signature for Lung Squamous Cell Carcinoma
 
 https://github.com/ag48665/lusc-transcriptomic-prognostic-signature
