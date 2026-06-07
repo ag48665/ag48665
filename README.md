@@ -383,14 +383,14 @@ Develop a computational genomics framework for forensic-style human identificati
 * AI-assisted human identification
 * Explainable genomic machine learning
 
----
-Forensic DNA Mixture Lab
-GitHub: forensic-dna-mixture-lab
 
-Objective:
+## Forensic DNA Mixture Lab
+GitHub: [forensic-dna-mixture-lab](https://github.com/ag48665/forensic-dna-mixture-lab)
+
+**Objective:**
 Develop computational methods for forensic DNA mixture interpretation and contributor identification using probabilistic modeling, population genetics, and machine learning approaches.
 
-Applications:
+**Applications:**
 
 Forensic genomics
 DNA mixture deconvolution
