@@ -384,7 +384,21 @@ Develop a computational genomics framework for forensic-style human identificati
 * Explainable genomic machine learning
 
 ---
+Forensic DNA Mixture Lab
+GitHub: forensic-dna-mixture-lab
 
+Objective:
+Develop computational methods for forensic DNA mixture interpretation and contributor identification using probabilistic modeling, population genetics, and machine learning approaches.
+
+Applications:
+
+Forensic genomics
+DNA mixture deconvolution
+Human identification
+Probabilistic genotyping
+Criminalistics and forensic analytics
+
+---
 ### Transcriptomic Prognostic Signature for Lung Squamous Cell Carcinoma
 
 https://github.com/ag48665/lusc-transcriptomic-prognostic-signature
